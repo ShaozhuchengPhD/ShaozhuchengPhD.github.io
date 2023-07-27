@@ -23,8 +23,8 @@ Areas of Interest
 
 Education
 ======
-- 2022- PhD in Marketing, Heriot-Watt University.
-- 2019-2022 BAs in Business Administration, UCSI University.
+- 2022-Present: PhD in Marketing, Heriot-Watt University.
+- 2019-2022: BAs in Business Administration, UCSI University.
 
 Service
 ======
@@ -34,5 +34,5 @@ Service
 
 Contact
 ======
-E-mail: zs2037@hw.ac.uk / shaozhucheng@yahoo.com
+- E-mail: zs2037@hw.ac.uk / shaozhucheng@yahoo.com
 
