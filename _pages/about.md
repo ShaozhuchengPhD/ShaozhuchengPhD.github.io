@@ -19,8 +19,8 @@ Live Streaming Commerce, Celebrity Endorsement, Brand Marketing, Consumer Studie
 
 Education
 ======
-2022 PhD in Marketing, Heriot-Watt University.
-2019 BAs in Business Administration, UCSI University.
+- 2022 PhD in Marketing, Heriot-Watt University.
+- 2019 BAs in Business Administration, UCSI University.
 
 Site-wide configuration
 ------
