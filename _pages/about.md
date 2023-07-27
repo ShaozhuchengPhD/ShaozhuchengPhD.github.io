@@ -23,8 +23,8 @@ Areas of Interest
 
 Education
 ======
-- 2022-Present: PhD in Marketing, [Heriot-Watt University] (https://www.hw.ac.uk/).
-- 2019-2022: BAs in Business Administration, [UCSI University] (https://www.ucsiuniversity.edu.my/).
+- 2022-Present: PhD in Marketing, [Heriot-Watt University](https://www.hw.ac.uk/).
+- 2019-2022: BAs in Business Administration, [UCSI University](https://www.ucsiuniversity.edu.my/).
 
 Service
 ======
