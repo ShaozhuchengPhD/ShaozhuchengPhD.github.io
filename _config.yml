@@ -83,7 +83,7 @@ author:
   employer         :
   googlescholar    : "https://scholar.google.com"
   email            : "zs2037@hw.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,6 @@ author:
   tumblr           :
   vine             :
   weibo            :
-  Wechat             :JeosonPh
   youtube          :
   wikipedia        :
 
