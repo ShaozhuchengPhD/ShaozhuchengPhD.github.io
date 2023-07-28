@@ -42,7 +42,7 @@ Services
 - Reviewer: [Journal of Research in Interactive Marketing](https://www.emerald.com/insight/publication/issn/2040-7122).
 - Reviewer: 2nd International Conference on Emerging Technologies and Intelligent Systems [(ICETIS 2022)](https://icetis2022.asrin.org/).
 
-Contact
+CONTACT
 ======
 - E-mail: zs2037@hw.ac.uk / shaozhucheng@yahoo.com
 
