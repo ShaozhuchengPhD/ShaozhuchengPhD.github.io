@@ -21,7 +21,6 @@ QUALIFICATION
 
 RESEARCH
 ======
-
 Areas of Interest
 -----
 - Live Streaming Commerce.
