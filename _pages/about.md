@@ -15,7 +15,7 @@ Prior to PhD studies, he graduated from UCSI University with a BA in Business Ad
 QUALIFICATION
 =====
 - <img width="120" height="60" src="https://zhuchengshao.github.io/images/HWU2.jpg"/> <br>
-  <b>Heriot-Watt University <br>
+  <b>Heriot-Watt University </b> <br>
   2022-Present <br>
   PhD in Marketing <br>
   Sypervisior(s): Assoc. Prof. [Jessica Sze Yin Ho](https://www.hw.ac.uk/ebs/people/faculty/jessica-sze-yin-ho.htm) <br>
