@@ -18,6 +18,7 @@ QUALIFICATION
 - 2022-Present: PhD in Marketing, [Heriot-Watt University](https://www.hw.ac.uk/).
 - 2019-2022: BA in Business Administration, [UCSI University](https://www.ucsiuniversity.edu.my/).
 
+
 RESEARCH
 ======
 
