@@ -34,7 +34,7 @@ Skills
 - Partial Least Squares Structural Equation Modeling (PLS-SEM).
 - Artificial Neural Network (ANN).
 - fuzzy set qualitative comparative analysis (fsQCA).
-- Regression Analysis
+- Regression Analysis.
 - Necessary Condition Analysis (NCA).
 
 Services
