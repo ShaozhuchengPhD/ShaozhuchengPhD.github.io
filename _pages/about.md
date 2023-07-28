@@ -24,7 +24,7 @@ QUALIFICATION
   <b>UCSI University </b> <br>
   2019-2022 <br>
   BA in Business Administration <br>
-  Supervisor: Dr. Remie Johan <br>
+  Supervisor: Dr. [Remie Johan](https://www.ucsiuniversity.edu.my/dr-mohd-remie-mohd-johan) <br>
 
 <br>
 
