@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "JEOSON ZHUCHENG SHAO"
 title_separator          : "-"
-name                     : &name "Zhucheng"
+name                     : &name "Jeoson Zhucheng Shao (zs2037@hw.ac.uk)"
 description              : &description "personal description"
 url                      : https://ZhuchengShao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
