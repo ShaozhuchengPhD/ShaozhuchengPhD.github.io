@@ -15,6 +15,8 @@ Prior to PhD studies, he graduated from UCSI University with a BA in Business Ad
 
 QUALIFICATION
 =====
+- * <img width="75" height="75" src="https://zhuchengshao.github.io/images/HWU.jpg"/> <br>
+- * <img width="120" height="60" src="https://zhuchengshao.github.io/images/HWU2.jpg"/> <br>
 - 2022-Present: PhD in Marketing, [Heriot-Watt University](https://www.hw.ac.uk/).
 - 2019-2022: BA in Business Administration, [UCSI University](https://www.ucsiuniversity.edu.my/).
 
