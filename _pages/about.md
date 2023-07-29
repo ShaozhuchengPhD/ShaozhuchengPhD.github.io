@@ -20,7 +20,7 @@ QUALIFICATION
   PhD in Marketing <br>
   Supervisor(s): Assoc. Prof. [Jessica Sze Yin Ho](https://www.hw.ac.uk/ebs/people/faculty/jessica-sze-yin-ho.htm), Assoc. Prof. [Ian Grant](https://www.hw.ac.uk/ebs/people/faculty/ian-grant.htm) <br>
 
-- <img width="101.89" height="60" src="https://zhuchengshao.github.io/images/UCSI2.jpg"/> <br>
+- <img width="120" height="71" src="https://zhuchengshao.github.io/images/UCSI2.jpg"/> <br>
   <b>UCSI University </b> <br>
   2019 - 2022 <br>
   BA in Business Administration <br>
