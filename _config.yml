@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JEOSON ZHUCHENG SHAO"
+title                    : "JEOSON ZHUCHENG SHAO"<img width="40" height="40" src="https://zhuchengshao.github.io/images/favicon.png"/>
 title_separator          : "-"
 name                     : &name "Jeoson Zhucheng Shao (zs2037@hw.ac.uk)"
 description              : &description "personal description"
