@@ -49,8 +49,7 @@ Skills
 
 Services
 -----
-- <img width="61" height="84" src="https://zhuchengshao.github.io/images/JRIM.jpg"/> <br>
-  Reviewer: [Journal of Research in Interactive Marketing](https://www.emerald.com/insight/publication/issn/2040-7122).
+<img width="61" height="84" src="https://zhuchengshao.github.io/images/JRIM.jpg"/> Reviewer: [Journal of Research in Interactive Marketing](https://www.emerald.com/insight/publication/issn/2040-7122).<br>
 - Reviewer: 2nd International Conference on Emerging Technologies and Intelligent Systems [(ICETIS 2022)](https://icetis2022.asrin.org/).
 
 CONTACT
