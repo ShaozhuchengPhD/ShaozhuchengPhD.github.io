@@ -16,13 +16,13 @@ QUALIFICATION
 =====
 - <img width="120" height="60" src="https://zhuchengshao.github.io/images/HWU2.jpg"/> <br>
   <b>Heriot-Watt University </b> <br>
-  2022-Present <br>
+  2022 - Present <br>
   PhD in Marketing <br>
   Supervisor(s): Assoc. Prof. [Jessica Sze Yin Ho](https://www.hw.ac.uk/ebs/people/faculty/jessica-sze-yin-ho.htm), Assoc. Prof. [Ian Grant](https://www.hw.ac.uk/ebs/people/faculty/ian-grant.htm) <br>
 
 - <img width="101.89" height="60" src="https://zhuchengshao.github.io/images/UCSI2.jpg"/> <br>
   <b>UCSI University </b> <br>
-  2019-2022 <br>
+  2019 - 2022 <br>
   BA in Business Administration <br>
   Supervisor: Dr. [Remie Johan](https://www.ucsiuniversity.edu.my/dr-mohd-remie-mohd-johan) <br>
 
