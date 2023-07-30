@@ -55,4 +55,4 @@ Services
 
 CONTACT
 ======
-E-mail: zs2037@hw.ac.uk
+<img width="50" height="50" src="https://zhuchengshao.github.io/images/Mail.jpg"/> zs2037@hw.ac.uk
