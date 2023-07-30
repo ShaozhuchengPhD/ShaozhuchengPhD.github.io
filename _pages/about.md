@@ -12,7 +12,7 @@ redirect_from:
 His research interests lie in quantitative marketing, including live streaming commerce, celebrity endorsement and brand marketing.
 Prior to PhD studies, he graduated from UCSI University with a BA in Business Administration (first-class honour).</b>
 
-QUALIFICATION
+<img width="40" height="40" src="https://zhuchengshao.github.io/images/Qualification.jpg"/>QUALIFICATION
 =====
 - <img width="120" height="60" src="https://zhuchengshao.github.io/images/HWU2.jpg"/> <br>
   <b>Heriot-Watt University </b> <br>
@@ -55,4 +55,4 @@ Services
 
 CONTACT
 ======
-<img width="50" height="50" src="https://zhuchengshao.github.io/images/Mail.jpg"/> zs2037@hw.ac.uk
+<img width="40" height="40" src="https://zhuchengshao.github.io/images/Mail.jpg"/> zs2037@hw.ac.uk
