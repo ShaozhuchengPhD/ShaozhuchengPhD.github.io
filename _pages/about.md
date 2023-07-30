@@ -55,5 +55,5 @@ Services
 
 CONTACT
 ======
-- E-mail: zs2037@hw.ac.uk / shaozhucheng@yahoo.com
+[E-mail me](zs2037@hw.ac.uk)
 
