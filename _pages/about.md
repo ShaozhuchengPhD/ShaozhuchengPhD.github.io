@@ -55,5 +55,5 @@ Services
 
 CONTACT
 ======
-[E-mail me](zs2037@hw.ac.uk)
+Please E-mail me: zs2037@hw.ac.uk
 
