@@ -57,9 +57,6 @@ CONTACT
 ======
 E-mail: zs2037@hw.ac.uk
 
-</script>
-</main>
-<!--noindex-->
 <div class="hw-2020">
 <div class="py-10"></div>
 <footer class="hw_footer">
@@ -232,3 +229,121 @@ System status
 <script src="/dist/assets/js/typeahead.bundle.min.js" defer></script>
 <script src="/dist/assets/js/handlebars.min-v4.7.7.js" defer></script>
 <script src="/dist/assets/js/funnelback.autocompletion-2.6.0.js" defer></script>
+<script>
+    function runAutocomplete() {
+        "use strict";
+
+        jQuery(document).ready(function() {
+            jQuery('input#searchQueryGeneralNav').autocompletion({
+                datasets: {
+                    organic: {
+                        collection: 'heriot-watt~meta-ebs',
+                        profile : '_default',
+                        program: 'https://search.hw.ac.uk/s/suggest.json',
+                        format: 'extended',
+                        alpha: '0.5',
+                        show: '5',
+                        sort: '0',
+                        group: true,
+                        template: {
+                            pending: '<div class="alert mb-0">Searching&hellip;</div>',
+                            notFound: '<div class="alert alert-warning mb-0">Sorry, no results</div>',
+                        },
+                    },
+                },
+                typeahead: {hint: true},
+                length: 3
+            });
+            jQuery("button[data-search-trigger]").on( "click", function() {
+                setTimeout(function(){jQuery("#searchQueryGeneralNav").get(0).focus() },200);
+            });
+        });
+    }
+
+    var globalSearch = document.getElementById("searchQueryGeneralNav");
+    runAutocomplete();
+</script>
+<script>
+    // Lazy load, see https://web.dev/lazy-loading-images/
+    document.addEventListener("DOMContentLoaded", function() {
+        var lazyBackgrounds = [].slice.call(document.querySelectorAll(".lazy-background"));
+
+        if ("IntersectionObserver" in window) {
+            let lazyBackgroundObserver = new IntersectionObserver(function(entries, observer) {
+                entries.forEach(function(entry) {
+                    if (entry.isIntersecting) {
+                        let lazyBackground = entry.target;
+                        lazyBackground.style.backgroundImage = "url(" + lazyBackground.dataset.background + ")";
+                        lazyBackground.classList.remove("lazy");
+                        lazyBackgroundObserver.unobserve(lazyBackground);
+                    }
+                });
+            });
+        
+            lazyBackgrounds.forEach(function(lazyBackground) {
+                lazyBackgroundObserver.observe(lazyBackground);
+            });
+        }
+    });
+</script>
+<script>    
+    function setExternalLinks() {
+        "use strict";
+        
+        const externalLinks = document.querySelectorAll('a[href*="http"]:not([href*="www.hw.ac.uk"]):not([href*="search.hw.ac.uk"]):not([target=_blank])');
+        externalLinks.forEach(function(e) {
+            e.setAttribute("target", "_blank");
+            e.setAttribute("rel", "noopener");
+        });
+    }
+    setExternalLinks();
+</script>
+<script>
+    var font_weights = {
+        'main': {
+            'family': 'Montserrat',
+            'style': 'normal',
+            'weight': 400
+        }
+    };
+    var loaded_count = 0;
+
+    window.loadfonts = true;
+    if (typeof window.sessionStorage !== "undefined") {
+
+        for (var weight in font_weights) {
+            if (weight in sessionStorage) {
+                document.documentElement.className += ' wf-' + weight + '-active';
+                loaded_count++;
+            }
+        };
+
+        if (loaded_count === Object.keys(font_weights).length) {
+            window.loadfonts = false;
+        }
+    }
+</script>
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        
+    });
+</script>
+<script src="https://kit.fontawesome.com/59de8b047c.js" crossorigin="anonymous" async></script>
+<!-- endnoindex-->
+</div>
+<script>
+            document.addEventListener("DOMContentLoaded", function() {
+                let contentTables   = document.querySelectorAll("table");
+                
+                contentTables.forEach(function(e) {
+                    let tableHeaders = e.getElementsByTagName("th");
+                    let tableCells   = e.getElementsByTagName("td");
+                    
+                    for (i=0; i < tableCells.length; i++) {
+                        tableCells[i].setAttribute("data-title", tableHeaders[i].textContent);
+                    }
+                });
+            });
+        </script>
+</body>
+</html>
