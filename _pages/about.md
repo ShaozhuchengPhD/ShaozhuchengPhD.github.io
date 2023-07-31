@@ -49,7 +49,7 @@ Skills
 
 Services
 -----
-<img width="74.7" height="112" src="https://zhuchengshao.github.io/images/JRIM.jpg"/><br>
+[<img width="74.7" height="112" src="https://zhuchengshao.github.io/images/JRIM.jpg"/>](https://www.emerald.com/insight/publication/issn/2040-7122)<br>
 Reviewer: [Journal of Research in Interactive Marketing](https://www.emerald.com/insight/publication/issn/2040-7122). <br>
 <br>
 <img width="74.7" height="112" src="https://zhuchengshao.github.io/images/ICETIS.jpg"/><br>
