@@ -12,7 +12,6 @@ redirect_from:
 His research interests lie in quantitative marketing, including live streaming commerce, celebrity endorsement and brand marketing.
 Prior to PhD studies, he graduated from UCSI University with a BA in Business Administration (first-class honour).</b>
 
-font-family:'Roboto Slab', sans-serif
 QUALIFICATION
 =====
 - <img width="120" height="60" src="https://zhuchengshao.github.io/images/HWU2.jpg"/> <br>
