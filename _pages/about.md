@@ -33,27 +33,29 @@ RESEARCH
 
 Areas of Interest
 -----
-- Live Streaming Commerce.
-- Celebrity Endorsement.
-- Brand Marketing.
-- Consumer Studies.
-- Quantitative Research Methods.
+- Live Streaming Commerce
+- Celebrity Endorsement
+- Brand Marketing
+- Consumer Studies
+- Quantitative Research Methods
 
 Skills
 -----
-- Partial Least Squares Structural Equation Modeling (PLS-SEM).
-- Artificial Neural Network (ANN).
-- fuzzy set qualitative comparative analysis (fsQCA).
-- Regression Analysis.
-- Necessary Condition Analysis (NCA).
+- Partial Least Squares Structural Equation Modeling (PLS-SEM)
+- Artificial Neural Network (ANN)
+- fuzzy set qualitative comparative analysis (fsQCA)
+- Regression Analysis
+- Necessary Condition Analysis (NCA)
 
 Services
 -----
+[<img width="74.7" height="112" src="https://zhuchengshao.github.io/images/IJCS.jpg"/>](https://www.emerald.com/insight/publication/issn/2040-7122](https://onlinelibrary.wiley.com/journal/14706431)<br>
+Reviewer: Journal of Research in Interactive Marketing <br>
 [<img width="74.7" height="112" src="https://zhuchengshao.github.io/images/JRIM.jpg"/>](https://www.emerald.com/insight/publication/issn/2040-7122)<br>
-Reviewer: Journal of Research in Interactive Marketing. <br>
+Reviewer: Journal of Research in Interactive Marketing <br>
 <br>
 [<img width="74.7" height="112" src="https://zhuchengshao.github.io/images/ICETIS.jpg"/>](https://icetis2022.asrin.org/)<br>
-Reviewer: 2nd International Conference on Emerging Technologies and Intelligent Systems (ICETIS 2022).<br>
+Reviewer: 2nd International Conference on Emerging Technologies and Intelligent Systems (ICETIS 2022)<br>
 
 CONTACT
 ======
